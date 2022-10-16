@@ -1,0 +1,6 @@
+psycopg2
+spotipy
+youtube_title_parse
+google-api-python-client
+google-auth-oauthlib 
+google-auth-httplib2
